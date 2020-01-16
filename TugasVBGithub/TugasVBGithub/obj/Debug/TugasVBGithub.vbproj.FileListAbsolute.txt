@@ -1,0 +1,58 @@
+D:\College\TugasVisualStudio\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.exe.config
+D:\College\TugasVisualStudio\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.Login.resources
+D:\College\TugasVisualStudio\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.Resources.resources
+D:\College\TugasVisualStudio\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.vbproj.GenerateResource.Cache
+D:\College\TugasVisualStudio\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.DataPeminjam.resources
+D:\College\TugasVisualStudio\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.DataPinjaman.resources
+D:\College\TugasVisualStudio\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.FMenu.resources
+D:\College\TugasVisualStudio\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.TrPeminjaman.resources
+D:\College\TugasVisualStudio\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.exe
+D:\College\TugasVisualStudio\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.pdb
+D:\College\TugasVisualStudio\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.xml
+D:\College\TugasVisualStudio\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.exe
+D:\College\TugasVisualStudio\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.xml
+D:\College\TugasVisualStudio\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.pdb
+E:\College\College\Semester3\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.exe.config
+E:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.exe
+E:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.xml
+E:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.pdb
+E:\College\College\Semester3\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.exe
+E:\College\College\Semester3\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.pdb
+E:\College\College\Semester3\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.xml
+E:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.DataPeminjam.resources
+E:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.DataPinjaman.resources
+E:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.Login.resources
+E:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.FMenu.resources
+E:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.Resources.resources
+E:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.TrPeminjaman.resources
+E:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.vbproj.GenerateResource.Cache
+F:\College\College\Semester3\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.exe.config
+F:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.exe
+F:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.xml
+F:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.pdb
+F:\College\College\Semester3\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.exe
+F:\College\College\Semester3\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.pdb
+F:\College\College\Semester3\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.xml
+F:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.DataPeminjam.resources
+F:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.DataPinjaman.resources
+F:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.Login.resources
+F:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.FMenu.resources
+F:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.Resources.resources
+F:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.TrPeminjaman.resources
+F:\College\College\Semester3\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.vbproj.GenerateResource.Cache
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.exe.config
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.exe
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.xml
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.pdb
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.exe
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.pdb
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\bin\Debug\TugasVBGithub.xml
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.DataPeminjam.resources
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.DataPinjaman.resources
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.FMenu.resources
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.Resources.resources
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.TrPeminjaman.resources
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.vbproj.GenerateResource.Cache
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.FLogin.resources
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.FPengguna.resources
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\TugasVBGithub\obj\Debug\TugasVBGithub.FDatapengguna.resources

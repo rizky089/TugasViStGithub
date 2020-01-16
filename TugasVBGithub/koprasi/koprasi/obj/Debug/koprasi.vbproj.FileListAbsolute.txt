@@ -1,0 +1,3 @@
+D:\Rizky\koprasi\koprasi\bin\Debug\koprasi.exe.config
+D:\visual studio_yogaIK2\Yogsss\Tugas\koprasi\koprasi\bin\Debug\koprasi.exe.config
+D:\visual studio_yogaIK2\Yogsss\Tugas\TugasVBGithub\koprasi\koprasi\bin\Debug\koprasi.exe.config
